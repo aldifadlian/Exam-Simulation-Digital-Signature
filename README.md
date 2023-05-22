@@ -1,6 +1,5 @@
-# Tugas Kecil 3: Implementasi Program Tanda-tangan Digital dengan Menggunakan Algoritma RSA dan Fungsi hash SHA-3
+# Implementasi SHA-3 dan RSA pada Tanda Tangan Digital Dalam Pakta Integritas Ujian Online
 ## II4031 Kriptografi dan Koding
-- 18220012 Fikri Muhammad Fahreza
 - 18220086 Aldi Fadlian Sunan
 
 # 🔍 Introduction 
@@ -28,5 +27,5 @@ Untuk file non teks seperti .jpg, .pdf, video, maupun audio, tanda-tangan digita
 1. Clone repositori ini
 2. Run file app.py
 3. Buat kunci terlebih dahulu melalui menu generate key
-4. Signing signature ke dokumen melalui menu sign dengan kunci yang telah dibuat sebelumnya
+4. Signing signature ke dokumen "Pakta Integritas.pdf" melalui menu sign dengan kunci yang telah dibuat sebelumnya
 5. Verifying signature dari dokumen yang telah ditandatangani melalui menu Verify
